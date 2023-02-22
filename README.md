@@ -1,4 +1,3 @@
-
 # Tela de cadastro
 
 Tela de cadastro com o layout feito em HTML e CSS e com um campo de formulario utilizando o Javascript para fazer a validações.
